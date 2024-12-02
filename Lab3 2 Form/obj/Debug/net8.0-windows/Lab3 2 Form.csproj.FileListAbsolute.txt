@@ -1,0 +1,16 @@
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.csproj.GenerateResource.cache
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.AssemblyInfoInputs.cache
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.AssemblyInfo.cs
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.csproj.CoreCompileInputs.cache
+D:\New folder\Lab3 2 Form\Lab3 2 Form\bin\Debug\net8.0-windows\Lab3 2 Form.exe
+D:\New folder\Lab3 2 Form\Lab3 2 Form\bin\Debug\net8.0-windows\Lab3 2 Form.deps.json
+D:\New folder\Lab3 2 Form\Lab3 2 Form\bin\Debug\net8.0-windows\Lab3 2 Form.runtimeconfig.json
+D:\New folder\Lab3 2 Form\Lab3 2 Form\bin\Debug\net8.0-windows\Lab3 2 Form.dll
+D:\New folder\Lab3 2 Form\Lab3 2 Form\bin\Debug\net8.0-windows\Lab3 2 Form.pdb
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\ImageProcessingApp.Form1.resources
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.dll
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\refint\Lab3 2 Form.dll
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.pdb
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\Lab3 2 Form.genruntimeconfig.cache
+D:\New folder\Lab3 2 Form\Lab3 2 Form\obj\Debug\net8.0-windows\ref\Lab3 2 Form.dll
